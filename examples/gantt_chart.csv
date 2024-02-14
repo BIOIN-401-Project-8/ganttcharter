@@ -1,0 +1,35 @@
+title,start_date,end_date,color
+Chatbot GUI,2024-03-17,2024-03-18,cyan
+Translation Layer,2024-03-05,2024-03-29,orange
+Generate KG,2024-01-30,2024-02-19,cyan
+Evaluate KG,2024-02-20,2024-02-27,cyan
+Connect KG to Chatbot,2024-01-30,2024-03-05,green
+Find Experts,2024-01-28,2024-01-29,orange
+OMIM Scraper,2024-01-26,2024-01-30,orange
+Paper QA,2024-01-24,2024-02-06,green
+Wishart Lab Resources Setup,2024-01-23,2024-01-24,cyan
+Vector DB (Full Articles),2024-02-16,2024-02-23,green
+Vector DB (All Abstracts),2024-01-30,2024-02-16,green
+Vector DB (DMD Abstracts),2024-01-23,2024-02-12,green
+Gantt Chart,2024-01-16,2024-01-23,cyan
+Gantt Chart,2024-02-13,2024-02-13,green
+Test NLP tools for building KG,2024-02-09,2024-02-13,orange
+Neo4j & Cypher Courses,2024-02-06,2024-02-13,orange
+Gantt Chart,2024-02-06,2024-02-06,orange
+Literature Review,2024-01-16,2024-02-06,cyan
+Requirements,2024-01-16,2024-01-17,cyan
+Orphadata Disease List,2024-01-16,2024-01-17,orange
+Pubmed Subset,2024-01-16,2024-01-31,green
+RAG,2024-02-06,2024-02-27,green
+Final Written Report,2024-04-02,2024-04-09,magenta
+Final Oral Presentation,2024-03-26,2024-04-02,magenta
+Mid-term Literature Review,2024-02-19,2024-02-27,magenta
+Weekly Presentation,2024-01-21,2024-01-23,cornflower blue
+Weekly Presentation,2024-01-28,2024-01-30,cornflower blue
+Weekly Presentation,2024-02-04,2024-02-06,cornflower blue
+Weekly Presentation,2024-02-11,2024-02-13,cornflower blue
+Weekly Presentation,2024-03-03,2024-03-05,cornflower blue
+Weekly Presentation,2024-03-10,2024-03-12,cornflower blue
+Weekly Presentation,2024-03-17,2024-03-19,cornflower blue
+Weekly Presentation,2024-03-24,2024-03-26,cornflower blue
+Reading Week,2024-02-19,2024-02-23,purple
