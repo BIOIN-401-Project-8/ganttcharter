@@ -71,7 +71,7 @@ def gantt_chart(csv_file: Path, fig_file: Path, current_date=pd.Timestamp.today(
     # axes[0].grid(axis='y', which='minor')  # set the grid on the minor ticks
     # axes[0].tick_params(axis='y', which='minor', length=0)  # hide minor tick marks
     ax.xaxis.grid(True)
-    plt.savefig(f"gantt_chart/gantt_chart_{current_date.date()}.png")
+    plt.savefig(fig_file)
 
 def main():
     parser = argparse.ArgumentParser(description="Generate a Gantt chart from a CSV file.")

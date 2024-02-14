@@ -25,5 +25,5 @@ python ganttcharter.py examples/gantt_chart.csv examples/gantt_chart.png
 You can also use the provided Dockerfile to run the container.
 
 ```bash
-docker run -v $(pwd):/app ganttcharter python ganttcharter.py examples/gantt_chart.csv examples/gantt_chart.png
+docker run -v $(pwd):/app ganttcharter python /app/ganttcharter.py /app/examples/gantt_chart.csv /app/examples/gantt_chart.png
 ```
