@@ -1,15 +1,16 @@
 title,start_date,end_date,color,label,
 GUI,2024-03-02,2024-03-07,green,Steven,
 Newsletters,2024-03-19,2024-03-24,orange,Robyn,
-Evaluate Chatbot,2024-03-05,2024-03-17,cyan,Both,
-Citations,2024-03-02,2024-03-08,green,Steven,
+Evaluate Chatbot,2024-03-12,2024-03-17,cyan,Both,
+Citations,2024-03-02,2024-03-05,green,Steven,
+Citations,2024-03-12,2024-03-15,green,Steven,
 G-Retriever,2024-03-14,2024-03-17,green,Steven,
 Vector DB RAG,2024-03-14,2024-03-16,green,Steven,
 Cypher Generation,2024-03-13,2024-03-14,green,Steven,
 KG-RAG,2024-02-22,2024-03-02,green,Steven,
 Paper QA,2024-01-24,2024-02-06,green,Steven,
 Vector DB RAG,2024-02-06,2024-02-21,green,Steven,
-Translation,2024-03-02,2024-03-12,green,Steven,
+Translation,2024-03-02,2024-03-05,green,Steven,
 Translation,2024-03-19,2024-03-24,green,Steven,
 Evaluate KG,2024-02-06,2024-02-13,cyan,Both,
 Evaluate KG,2024-03-12,2024-03-17,cyan,Both,
@@ -30,8 +31,8 @@ Gantt Chart,2024-02-13,2024-02-13,green,Steven,
 Gantt Chart,2024-03-05,2024-03-05,green,Steven,
 Literature Review,2024-01-16,2024-02-06,cyan,Both,
 Requirements,2024-01-16,2024-01-17,cyan,Both,
-Final Written Report,2024-04-02,2024-04-09,magenta,,Deliverable
-Final Oral Presentation,2024-03-26,2024-04-02,magenta,,Deliverable
+Final Written Report,2024-03-26,2024-04-26,magenta,,Deliverable
+Final Oral Presentation,2024-03-26,2024-04-09,magenta,,Deliverable
 Mid-term Literature Review,2024-02-22,2024-02-27,magenta,,Deliverable
 Weekly Presentation,2024-01-21,2024-01-23,cornflower blue,,Weekly Presentation
 Weekly Presentation,2024-01-28,2024-01-30,cornflower blue,,Weekly Presentation
